@@ -22,7 +22,7 @@ Welcome to my personal portfolio! This project showcases my work, skills, and ex
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/personal-portfolio.git
+    git clone https://github.com/RutupurnaPanda/personal_portfolio.git
     ```
 2. Navigate to the project directory:
     ```bash
